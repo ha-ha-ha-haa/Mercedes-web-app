@@ -14,11 +14,5 @@ An replicated application of official mercedes benz website. Made in love for me
 
 
 
-#### Mobile view
-![image](https://user-images.githubusercontent.com/119752825/217079649-70f0dc0c-2b5f-451b-a4da-d54bb54737b7.png)![image](https://user-images.githubusercontent.com/119752825/217079686-ede96dc1-94b0-4801-9633-9f55214d9314.png)
-![image](https://user-images.githubusercontent.com/119752825/217079839-c5d1488f-f329-4aaa-bb5a-68ba32d396b2.png)
-
-
-
 
 
